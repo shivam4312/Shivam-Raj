@@ -1,0 +1,2 @@
+del name
+print (name)
