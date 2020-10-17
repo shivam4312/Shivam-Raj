@@ -4,7 +4,7 @@ main()
 
 {
 	int a,b,sum;
-	printf("Enter Any Two Number You Want To Add: ");
+	printf("Enter Any Two Numbers To Add: ");
 	scanf("%d%d",&a,&b);
 
 	sum=a+b;
